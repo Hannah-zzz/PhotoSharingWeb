@@ -1,0 +1,21 @@
+.title{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    background-color: aliceblue;
+}
+.content{
+    font-style: initial;
+    font: 20px bold;
+}
+.loginstate{
+    font: 25px bold;
+    align-content: center;
+    width: 100%;
+    text-align: center;
+}
+.button{
+    align-content: center;
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+.commenttitle{
+    font-size: 20px;
+    font-style: initial;
+    font-family:"Times New Roman", Times, serif;
+}
+.time{
+    font-style: oblique;
+    font-size: 12px;
+    background-color: aliceblue;
+    font-family:"Times New Roman", Times, serif;
+}
+.singlecomment{
+    font-family:"Times New Roman", Times, serif;
+
+}
+.userlink{
+    font-family:"Times New Roman", Times, serif;
+}
+.photo{
+    align-items: center;
+    text-align: center;
+}
+.cardcontent{
+    background-color: beige;
+    font-family:"Times New Roman", Times, serif;
+}
+.Title{
+    text-align: center;
+    align-items: center;
+}
+.outline{
+    background-color: rebeccapurple;
+}
+.button{
+    background-color: lightgrey;
+    font-family:"Times New Roman", Times, serif;
+}
